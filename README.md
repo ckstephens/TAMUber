@@ -5,6 +5,7 @@ An app for Texas A&M's self-driving golf carts so users may queue for a ride fro
 This project was produced as a team of six.
 
 The final poster and powerpoint contain demontrations of this app.
+The final report contains in-depth development documentation and a video link.
 
 The app is primarily written using Ruby-on-Rails.
 Javascript is used to communicate with the carts using ROS.
